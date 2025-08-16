@@ -49,7 +49,7 @@
 4.  通过支付宝/微信完成人民币支付。
 5.  等待平台处理，通常能在短时间内完成Plus升级。
 
-### ChatGPT代充指南，以及代充平台推荐：[点击进入](https://juzixp.notion.site/ChatGPT-Plus-246b89f98d0c801381ccdf7e23cfbcb0)
+### ChatGPT代充指南，以及代充平台推荐：[点击进入](https://gpt.juzixp.com/guide.html)
 ---
 
 ### **方法二：请求海外亲友代付**
