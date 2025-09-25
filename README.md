@@ -1,7 +1,6 @@
 # ChatGPT Plus 国内充值教程：3种可行方案与避坑指南
 
 > 适用人群：想**快速稳定**开通或续费 ChatGPT Plus、希望通过**支付宝/微信**完成 **chatgpt会员代充** 的国内用户。
-> 目标关键词：**ChatGPT Plus 国内充值、chatgpt会员代充、chatgpt国内充值教程**
 
 
 ## 一句话结论
